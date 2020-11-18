@@ -102,7 +102,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "FormModifyRequirement";
-            this.Text = "FormModifyRequirement";
+            this.Text = "Modify Requirement";
             this.Load += new System.EventHandler(this.FormModifyRequirement_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

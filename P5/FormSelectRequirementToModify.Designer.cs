@@ -134,7 +134,7 @@
             this.Controls.Add(this.featureList);
             this.Controls.Add(this.label1);
             this.Name = "FormSelectRequirementToModify";
-            this.Text = "FormSelectRequirementToModify";
+            this.Text = "Select Requirement";
             this.Load += new System.EventHandler(this.FormSelectRequirementToModify_Load);
             ((System.ComponentModel.ISupportInitialize)(this.reqList)).EndInit();
             this.ResumeLayout(false);

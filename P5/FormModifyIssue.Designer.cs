@@ -209,7 +209,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "FormModifyIssue";
-            this.Text = "FormModifyIssue";
+            this.Text = "Modify Issue";
             this.Load += new System.EventHandler(this.FormModifyIssue_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

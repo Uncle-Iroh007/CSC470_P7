@@ -34,3 +34,39 @@ D:\CSC470_Files\P6\CSC470-P5-master - Copy\Uncle-Iroh007\CSC470_P6\P5\obj\Debug\
 D:\CSC470_Files\P6\CSC470-P5-master - Copy\Uncle-Iroh007\CSC470_P6\P5\obj\Debug\Builder.FormSelectFeatureToRemove.resources
 D:\CSC470_Files\P6\CSC470-P5-master - Copy\Uncle-Iroh007\CSC470_P6\P5\obj\Debug\Builder.FormSelectRequirementToModify.resources
 D:\CSC470_Files\P6\CSC470-P5-master - Copy\Uncle-Iroh007\CSC470_P6\P5\obj\Debug\Builder.FormModifyRequirement.resources
+D:\CSC470_Files\P7_Master\P5\bin\Debug\Builder.exe.config
+D:\CSC470_Files\P7_Master\P5\bin\Debug\Builder.exe
+D:\CSC470_Files\P7_Master\P5\bin\Debug\Builder.pdb
+D:\CSC470_Files\P7_Master\P5\bin\Debug\Castle.Core.dll
+D:\CSC470_Files\P7_Master\P5\bin\Debug\Moq.dll
+D:\CSC470_Files\P7_Master\P5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\CSC470_Files\P7_Master\P5\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\CSC470_Files\P7_Master\P5\bin\Debug\Castle.Core.xml
+D:\CSC470_Files\P7_Master\P5\bin\Debug\Moq.xml
+D:\CSC470_Files\P7_Master\P5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CSC470_Files\P7_Master\P5\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\CSC470_Files\P7_Master\P5\obj\Debug\P5.csprojAssemblyReference.cache
+D:\CSC470_Files\P7_Master\P5\obj\Debug\Builder.FormCreateFeature.resources
+D:\CSC470_Files\P7_Master\P5\obj\Debug\Builder.FormCreateRequirement.resources
+D:\CSC470_Files\P7_Master\P5\obj\Debug\Builder.FormDashboard.resources
+D:\CSC470_Files\P7_Master\P5\obj\Debug\Builder.FormModifyFeature.resources
+D:\CSC470_Files\P7_Master\P5\obj\Debug\Builder.FormModifyIssue.resources
+D:\CSC470_Files\P7_Master\P5\obj\Debug\Builder.FormModifyRequirement.resources
+D:\CSC470_Files\P7_Master\P5\obj\Debug\Builder.FormSelectFeature.resources
+D:\CSC470_Files\P7_Master\P5\obj\Debug\Builder.FormSelectFeatureToRemove.resources
+D:\CSC470_Files\P7_Master\P5\obj\Debug\Builder.selectIssueToModify.resources
+D:\CSC470_Files\P7_Master\P5\obj\Debug\Builder.FormRecordIssue.resources
+D:\CSC470_Files\P7_Master\P5\obj\Debug\P5.FormLogin.resources
+D:\CSC470_Files\P7_Master\P5\obj\Debug\P5.FormMain.resources
+D:\CSC470_Files\P7_Master\P5\obj\Debug\P5.FormCreateProject.resources
+D:\CSC470_Files\P7_Master\P5\obj\Debug\P5.FormModifyProject.resources
+D:\CSC470_Files\P7_Master\P5\obj\Debug\Builder.FormRemoveIssue.resources
+D:\CSC470_Files\P7_Master\P5\obj\Debug\P5.FormRemoveProject.resources
+D:\CSC470_Files\P7_Master\P5\obj\Debug\P5.FormSelectProject.resources
+D:\CSC470_Files\P7_Master\P5\obj\Debug\Builder.FormSelectRequirementToModify.resources
+D:\CSC470_Files\P7_Master\P5\obj\Debug\Builder.Properties.Resources.resources
+D:\CSC470_Files\P7_Master\P5\obj\Debug\P5.csproj.GenerateResource.cache
+D:\CSC470_Files\P7_Master\P5\obj\Debug\P5.csproj.CoreCompileInputs.cache
+D:\CSC470_Files\P7_Master\P5\obj\Debug\P5.csproj.CopyComplete
+D:\CSC470_Files\P7_Master\P5\obj\Debug\Builder.exe
+D:\CSC470_Files\P7_Master\P5\obj\Debug\Builder.pdb
